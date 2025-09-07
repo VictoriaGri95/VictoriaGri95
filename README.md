@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Codwears badge]([https://www.codewars.com/users/VictoriaGri95/badges/micro)](https://www.codewars.com/users/VictoriaGri95)
+[![Codwears badge](https://www.codewars.com/users/VictoriaGri95/badges/micro)](https://www.codewars.com/users/VictoriaGri95)
 
 
 <!--
