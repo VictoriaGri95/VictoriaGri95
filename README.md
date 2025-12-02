@@ -1,7 +1,7 @@
 ## Hi there 👋
 [![Codwears badge](https://www.codewars.com/users/VictoriaGri95/badges/micro)](https://www.codewars.com/users/VictoriaGri95)
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React, TypeScript, Styled Components, SCSS
 <!--
 **VictoriaGri95/VictoriaGri95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
